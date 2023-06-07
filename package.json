@@ -1,0 +1,20 @@
+{
+  "name": "codecrunch",
+  "version": "1.0.0",
+  "description": "A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiamory/CodeCrunch.git"
+  },
+  "author": "Cynthia Morales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cynthiamory/CodeCrunch/issues"
+  },
+  "homepage": "https://github.com/cynthiamory/CodeCrunch#readme"
+}
