@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The future of TikTok bans",
+    "description": "Montana's new TikTok ban will see app stores fined $10,000 per day if they make TikTok available to users in Montana after January 1...",
+    "date_created": "October 15, 2021",
+    "user_id": 1
+  },
+  {
+    "title": "Meta is rolling out Instagram Broadcast channels globally.",
+    "description": "Not to be confused with WhatsApp’s recently added Channels feature or Instagram’s Twitter competitor that was recently shown to employees, Meta is rolling out the Telegram-like Broadcast Channels for use by everyone around the world.",
+    "date_created": "Aug 01, 2021",
+    "user_id": 2
+  },
+  {
+    "title": "Stack Overflow survey finds developers are ready to use AI tools — even if they don’t fully trust them.",
+    "description": "The coding Q&A site is embracing generative AI, but its moderators are on strike over its policies. Its annual developer survey reflects this tension over AI coding..",
+    "date_created": "Feb 20, 2023",
+    "user_id": 3
+  }
+]

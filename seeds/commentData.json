@@ -1,0 +1,38 @@
+[
+  {
+    "comments_body": "Oh wow, that awesome. I can't wait to see it!",
+    "date_created": "August 04, 2021",
+    "user_id": 2,
+    "blogPost_id": 1
+  },
+  {
+    "comments_body": "Never believe the media",
+    "date_created": "May 10, 2023",
+    "user_id": 3,
+    "blogPost_id": 1
+  },
+  {
+    "comments_body": "I love this! I completely agree with you",
+    "date_created": "January 10, 2023",
+    "user_id": 3,
+    "blogPost_id": 2
+  },
+  {
+    "comments_body": "Well that is interesting. I never thought about it that way",
+    "date_created": "Dec 11, 2021",
+    "user_id": 1,
+    "blogPost_id": 2
+  },
+  {
+    "comments_body": "Oh no way! that is such an amazing development",
+    "date_created": "Feb 14, 2023",
+    "user_id": 2,
+    "blogPost_id": 3
+  },
+  {
+    "comments_body": "No wonder why my code wasn't working. I was missing a semicolon",
+    "date_created": "Feb 27, 2023",
+    "user_id": 1,
+    "blogPost_id": 3
+  }
+]
