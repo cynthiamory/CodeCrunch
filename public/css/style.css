@@ -38,8 +38,9 @@ main {
 }
 
 /* NAVIGATION STYLING */
-.navBar {
+.naviBar {
   background-color: #00a0a0;
+  color: #dcdedd;
 }
 
 #logout {
@@ -57,6 +58,32 @@ main {
 #password-signup {
   background-color: #e5eaf5;
   color: #00585a;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  background-color: #00181a;
+  color: #00989b;
+  padding: 16px;
+  margin-bottom: 5px;
+}
+
+/* LOGIN AND SIGNUP STYLING: */
+
+.form-control {
+  font-family: 'Roboto', sans-serif;
+  background-color: #00181a;
+  color: #00989b;
+  padding: 16px;
+  margin-bottom: 5px;
+}
+
+.form-group {
+  font-family: 'Roboto', sans-serif;
+  background-color: #00181a;
+  color: #00989b;
+  padding: 16px;
+  margin-bottom: 5px;
 }
 
 /* BUTTON STYLING */
