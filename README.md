@@ -76,25 +76,21 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 ## Link To Walkthru Video
-**Walkthrough Video:** [Link To Walkthru Video](https://youtu.be/N3OneFKybxs) 
+**Walkthrough Video:** [Link To Walkthru Video](No Video) 
 
 
 ## Installation and Usage
-- To clone the repo: https://github.com/cynthiamory/E-commerce-Got-Back.git
+- To clone the repo: https://github.com/cynthiamory/CodeCrunch.git
 - Install [Node](https://nodejs.org/en). version 16 and up. Command line: npm init 
-- Install [Sequelize](https://www.npmjs.com/package/sequelize). version 16 and up. Command line: npm i sequelize 
-- Install Express: [Version 4.17.1](https://www.npmjs.com/package/express) Command line: npm i express@4.17.1
-- Then install MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2) Command line: npm i mysql2
-- Install nodemon: [Version 2/0/22](https://www.npmjs.com/package/nodemon) Command line: npm i nodemon
-- dotenv: [dotenv 16.1.4](https://www.npmjs.com/package/dotenv) Command line: npm install dotenv --save
-- dotenv: [Boottrap](https://www.npmjs.com/package/bootstrap) Command line: npm i bootstrap
+- Install Dependencies
+```bash
+npm install
+```
 - Run the application using Command: 
 ```bash
-node server.js
+npx nodemon server.js
 ```
-```bash
-npm start
-```
+- Add/Update your .env file with your credentials
 
 - Add your .env file in the root directory of the repo. Here you will pass your database name, your mySQl user and password. This will need to be done before running the app to allow a the connection.js to use the enviromental variables and keep your credentials protected.
 - Create your database. Navigate to the db Directory which holds the schema.sql file. Then you will need to open the MySQL Shell by running the command line: 
