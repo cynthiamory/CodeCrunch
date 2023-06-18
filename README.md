@@ -90,8 +90,6 @@ npm install
 ```bash
 npx nodemon server.js
 ```
-- Add/Update your .env file with your credentials
-
 - Add your .env file in the root directory of the repo. Here you will pass your database name, your mySQl user and password. This will need to be done before running the app to allow a the connection.js to use the enviromental variables and keep your credentials protected.
 - Create your database. Navigate to the db Directory which holds the schema.sql file. Then you will need to open the MySQL Shell by running the command line: 
 ```bash
