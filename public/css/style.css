@@ -68,7 +68,7 @@ h2 {
   margin-bottom: 5px;
 }
 
-/* LOGIN AND SIGNUP STYLING: */
+/* LOGIN AND SIGNUP: */
 
 .form-control {
   font-family: 'Roboto', sans-serif;
@@ -93,7 +93,7 @@ h2 {
 
 /* CONTENT CARD STYLING */
 .card-header {
-  background-color: #00989b;
+  background-color: #2cecf0;
 }
 
 .card-body {

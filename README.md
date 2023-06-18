@@ -67,10 +67,12 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ```
 
 ## Preview Images
-- ## Preview 1 
-![Website Preview Image](./assets/preview-1.png)
-- ## Preview 2 
-![Website Preview Image](./assets/product-preview.png)
+- ## Preview - Home
+![Website Preview Image](./assets/homepreview.png)
+- ## Preview - Dashboard 
+![Website Preview Image](./assets/dashboardpreview.png)
+- ## Preview - Login 
+![Website Preview Image](./assets/loginpreview.png)
 
 
 ## Link To Walkthru Video
