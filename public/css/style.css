@@ -1,0 +1,84 @@
+/* GENERAL STYLING */
+header {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #00181a;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  background-color: #00181a;
+  color: #00989b;
+  padding: 16px;
+  margin-bottom: 5px;
+}
+
+#blogName {
+  color: #dcdedd;
+}
+
+main {
+  font-family: 'Roboto', sans-serif;
+  margin-top: -5px;
+  background-color: #00181a;
+}
+
+.homepage-main {
+  margin-top: 34px;
+}
+
+.user-name {
+  background-color: #84a59d;
+}
+
+.blogPost-main {
+  margin-top: 34px;
+}
+
+/* NAVIGATION STYLING */
+.navBar {
+  background-color: #00a0a0;
+}
+
+#logout {
+  background-color: #84a59d;
+}
+
+/* TEXT AREAS AND INPUTS */
+#titleInput,
+#bodyInput,
+#comment,
+#email-login,
+#password-login,
+#name-signup,
+#email-signup,
+#password-signup {
+  background-color: #e5eaf5;
+  color: #00585a;
+}
+
+/* BUTTON STYLING */
+.btn {
+  background-color: #00989b;
+}
+
+/* CONTENT CARD STYLING */
+.card-header {
+  background-color: #00989b;
+}
+
+.card-body {
+  background-color: #dcdedd;
+}
+
+.card {
+  background-color: #dcdedd;
+}
+
+.card:hover {
+  box-shadow: 0 0 10px rgba(72, 71, 71, 0.2);
+  transform: scale(1.02);
+  transition: all 0.3s ease;
+}
